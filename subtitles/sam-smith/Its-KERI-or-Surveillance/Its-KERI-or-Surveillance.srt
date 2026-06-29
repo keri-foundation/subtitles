@@ -280,7 +280,7 @@ Eyes Report recommended is that people
 
 71
 00:03:16,480 --> 00:03:19,736
-start using AI based counter
+start using AI-based counter
 
 72
 00:03:19,760 --> 00:03:21,656
@@ -596,7 +596,7 @@ So what happens is that if you go
 
 150
 00:06:42,400 --> 00:06:44,776
-with AI based identity you can get
+with AI-based identity you can get
 
 151
 00:06:44,800 --> 00:06:47,895
@@ -692,7 +692,7 @@ let's go back and remember we're talking
 
 174
 00:07:39,039 --> 00:07:41,256
-about AI based digital identity which
+about AI-based digital identity which
 
 175
 00:07:41,280 --> 00:07:45,175
@@ -1488,7 +1488,7 @@ And so it doesn't get to where it
 
 373
 00:16:36,500 --> 00:16:38,716
-wants to go all at once. it just
+wants to go all at once. It just
 
 374
 00:16:38,740 --> 00:16:41,276
@@ -1604,11 +1604,11 @@ the AI just is a force multiplier for
 
 402
 00:17:55,380 --> 00:17:57,275
-for all of those types of attacks, not
+for all of those types of attacks,
 
 403
 00:17:57,299 --> 00:17:59,196
-not <i>just</i>, but is <i>for sure</i> a force
+not júst, but is for sure a force
 
 404
 00:17:59,220 --> 00:18:02,476
@@ -1660,7 +1660,7 @@ more. Cyber resilience after breach
 
 416
 00:18:32,340 --> 00:18:34,716
-because that's the perfect segue.
+because that's the perfect segway.
 
 417
 00:18:34,740 --> 00:18:36,796
@@ -2004,7 +2004,7 @@ and shared secrets are inherently weak
 
 502
 00:22:15,700 --> 00:22:19,436
-and inherently contribute ute to
+and inherently contribute to
 
 503
 00:22:19,460 --> 00:22:21,836
@@ -2140,7 +2140,7 @@ and the right trade in
 
 536
 00:23:36,419 --> 00:23:39,836
-an AI world is a fault tolerant system,
+an AI world is a fault-tolerant system,
 
 537
 00:23:39,860 --> 00:23:42,716
@@ -2260,7 +2260,7 @@ parties and then you use usernames
 
 566
 00:24:51,860 --> 00:24:53,996
-and passwords or now <i>Pass Keys</i>.
+and passwords or now <i>Pass Keys</i>
 
 567
 00:24:54,020 --> 00:24:55,596
@@ -2504,7 +2504,7 @@ protocol which would take
 
 627
 00:27:36,840 --> 00:27:41,056
-too much time. it doesn't have the
+too much time. It doesn't have the
 
 628
 00:27:41,080 --> 00:27:42,576
@@ -2536,7 +2536,7 @@ a different story but we now have
 
 635
 00:27:59,320 --> 00:28:02,255
-post-quantum public private key
+post-quantum public-private key
 
 636
 00:28:02,279 --> 00:28:05,296
@@ -2552,7 +2552,7 @@ switch to them which KERI already is.
 
 639
 00:28:08,679 --> 00:28:12,736
-So that's a different problem. U
+So that's a different problem.
 
 640
 00:28:12,760 --> 00:28:14,096
@@ -2736,7 +2736,7 @@ main source of fraud which is
 
 685
 00:30:10,520 --> 00:30:12,895
-impersonation taxes which deep
+impersonation attacks which deep
 
 686
 00:30:12,919 --> 00:30:15,135
@@ -2768,7 +2768,7 @@ AI that's an agent working on behalf of
 
 693
 00:30:29,640 --> 00:30:33,296
-somebody, you can you can challenge
+somebody, you can challenge
 
 694
 00:30:33,320 --> 00:30:34,816
@@ -2784,7 +2784,7 @@ person is delegating authority to an
 
 697
 00:30:39,720 --> 00:30:42,416
-agentic AI, then you then you can
+agentic AI, then you can
 
 698
 00:30:42,440 --> 00:30:44,655
@@ -2820,7 +2820,7 @@ Whereas most security systems are flat.
 
 706
 00:31:03,720 --> 00:31:06,336
-They they don't have this hierarchy that
+They don't have this hierarchy that
 
 707
 00:31:06,360 --> 00:31:08,816
@@ -2832,7 +2832,7 @@ delegations that are strongly
 
 709
 00:31:11,320 --> 00:31:13,216
-cryptographically verifiably chained
+cryptographically-verifiably chained
 
 710
 00:31:13,240 --> 00:31:18,015
@@ -2856,7 +2856,7 @@ creating surveillance society?
 
 715
 00:31:26,200 --> 00:31:29,696
-that's an interesting question.
+That's an interesting question.
 
 716
 00:31:29,720 --> 00:31:31,296
@@ -2904,7 +2904,7 @@ participants to that interaction.
 
 727
 00:31:58,039 --> 00:32:00,736
-For low stakes interactions, the
+For low-stakes interactions, the
 
 728
 00:32:00,760 --> 00:32:03,616
@@ -2924,7 +2924,7 @@ but still allows you to tune it for
 
 732
 00:32:12,279 --> 00:32:14,255
-the lowest stakes transactions and
+the lowest-stakes transactions and
 
 733
 00:32:14,279 --> 00:32:17,775
@@ -3340,7 +3340,7 @@ means I don't, it means my life is governed
 
 836
 00:36:32,359 --> 00:36:35,136
-and determined by outside forces. my
+and determined by outside forces. My
 
 837
 00:36:35,160 --> 00:36:38,736
@@ -3364,7 +3364,7 @@ anything. You're you're essentially a
 
 842
 00:36:46,040 --> 00:36:49,536
-surf or a slave or a or a
+surf or a slave or a
 
 843
 00:36:49,560 --> 00:36:52,335
@@ -3432,7 +3432,7 @@ KERI which is based on a
 
 859
 00:37:32,280 --> 00:37:34,496
-cryptographically verifiable identity
+cryptographically-verifiable identity
 
 860
 00:37:34,520 --> 00:37:36,176
@@ -3536,7 +3536,7 @@ based trust become less sustainable than
 
 885
 00:38:42,460 --> 00:38:44,916
-cryptographically verifiable trust? The
+cryptographically-verifiable trust? The
 
 886
 00:38:44,940 --> 00:38:47,156
@@ -4064,7 +4064,7 @@ my career before I started working on
 
 1017
 00:44:20,029 --> 00:44:23,525
-digital identity. And yeah, we we we can
+digital identity. And yeah, we can
 
 1018
 00:44:23,549 --> 00:44:26,966
@@ -4208,7 +4208,7 @@ AI agent operates under
 
 1053
 00:45:57,950 --> 00:45:59,606
-cryptographically verified authority by
+cryptographically-verified authority by
 
 1054
 00:45:59,630 --> 00:46:01,206
@@ -4220,7 +4220,7 @@ Well, it'd be the best of both worlds.
 
 1056
 00:46:02,990 --> 00:46:05,686
-It it we we would be able to have AI
+It it we would be able to have AI
 
 1057
 00:46:05,710 --> 00:46:08,406
@@ -4316,7 +4316,7 @@ AI, but I want to switch to using
 
 1080
 00:47:05,069 --> 00:47:07,926
-cryptographically verifiable human
+cryptographically-verifiable human
 
 1081
 00:47:07,950 --> 00:47:10,486
@@ -4644,7 +4644,7 @@ that care about this stuff
 
 1162
 00:50:44,359 --> 00:50:46,416
-where where their effort should go that
+where their effort should go that
 
 1163
 00:50:46,440 --> 00:50:48,176
@@ -4712,7 +4712,7 @@ sufficiently secure or you're wiped
 
 1179
 00:51:22,520 --> 00:51:26,256
-out. So that's the alternative.
+out.` So that's the alternative.
 
 1180
 00:51:26,280 --> 00:51:28,416
@@ -4732,7 +4732,7 @@ SEDI: the last best hope against
 
 1184
 00:51:38,280 --> 00:51:42,256
-AI. So it shows SEDI as a as a warrior,
+AI. So it shows SEDI as a warrior,
 
 1185
 00:51:42,280 --> 00:51:44,816
@@ -4764,7 +4764,7 @@ surveillance. It's basically you need
 
 1192
 00:52:06,680 --> 00:52:08,895
-to be continuously surveiled, so that it
+to be continuously surveilled, so that it
 
 1193
 00:52:08,919 --> 00:52:12,256
@@ -4880,7 +4880,7 @@ doing. If those are breakable,
 
 1221
 00:53:26,280 --> 00:53:31,936
-then we're looking at an an impending
+then we're looking at an impending
 
 1222
 00:53:31,960 --> 00:53:37,056
