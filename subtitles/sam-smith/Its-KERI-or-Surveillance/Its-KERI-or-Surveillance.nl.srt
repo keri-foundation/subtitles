@@ -8,7 +8,7 @@ bij de KERI Foundation. Ik ben tevens
 
 3
 00:00:06,480 --> 00:00:08,856
-de bedenker van de KERI-reeks
+de bedenker van de KERI-suite
 
 4
 00:00:08,880 --> 00:00:12,216
@@ -252,7 +252,7 @@ identiteit. Als ik KERI zeg, bedoel ik de
 
 64
 00:03:02,959 --> 00:03:04,536
-KERI-reeks protocollen. Er is een
+KERI-suite protocollen. Er is een
 
 65
 00:03:04,560 --> 00:03:05,896
@@ -4930,3 +4930,4 @@ wat volgens mij niet gaat gebeuren.
 00:54:21,431 --> 00:54:25,180
 Video: Sam en Caleb Smith
 Ondertiteling: Henk van Cann en Kor Dwarshuis
+
