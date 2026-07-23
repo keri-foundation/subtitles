@@ -38,6 +38,8 @@ Once a video is published, keep its path and file name unchanged. New versions m
 
 After delivery, do not edit the video’s length or content. Any change—cuts, inserts, reordering, or re-exports with different timing—breaks subtitle sync and forces a full rework of the caption files.
 
+Cosmetic changes that do not affect timing—such as volume, color grading, or brightness—are fine.
+
 ## Video Quality
 
 The video files are intended for the web. The video files you submit must meet the following requirements.
