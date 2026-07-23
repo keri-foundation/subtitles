@@ -4,11 +4,9 @@ Follow these rules when submitting videos so files stay consistent and easy to f
 
 ## Naming Conventions
 
-Use the same pattern for every file: `firstname-lastname-interview`.
+Discuss the naming convention with your team before starting. Decide on a format. Use that format for every file.
 
-Discuss the naming convention with your team before starting.
-
-Example pattern:
+Example pattern: `firstname-lastname-interview`
 
 Incorrect (inconsistent suffixes):
 
