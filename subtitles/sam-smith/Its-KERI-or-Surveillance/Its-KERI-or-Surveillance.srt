@@ -2272,7 +2272,7 @@ on an identity provider for the
 
 569
 00:25:01,140 --> 00:25:07,699
-ultimate security of the system. 
+ultimate security of the system.
 And that ends up
 
 570
@@ -3345,7 +3345,7 @@ anything. You're you're essentially a
 
 837
 00:36:46,040 --> 00:36:49,536
-surf or a slave or a
+serf or a slave or a
 
 838
 00:36:49,560 --> 00:36:52,335
@@ -4269,7 +4269,7 @@ scale today is AI because AI is already
 
 1068
 00:46:47,549 --> 00:46:50,486
-deployed at a global scale, right? 
+deployed at a global scale, right?
 
 1069
 00:46:50,510 --> 00:46:52,486
