@@ -6,6 +6,10 @@ Follow these rules when submitting videos so files stay consistent and easy to f
 
 Use the same pattern for every file: `firstname-lastname-interview`.
 
+Discuss the naming convention with your team before starting.
+
+Example pattern:
+
 Incorrect (inconsistent suffixes):
 
 - `john-doe-interview`
