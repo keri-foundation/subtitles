@@ -20,7 +20,7 @@ Correct (same suffix on every file):
 
 Do not use the following characters in file names: 
 
-- spaces ( `` )
+- spaces ( ` ` )
 - pipe symbols (`|`)
 - slashes (`/`)
 - back-slashes (`\`)
