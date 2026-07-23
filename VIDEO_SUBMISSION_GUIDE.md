@@ -36,8 +36,6 @@ Once a video is published, keep its path and file name unchanged. New versions m
 
 The video files are intended for the web. The video files you submit must meet the following requirements.
 
-**Recommended Video Specifications for Web Hosting (HTML5** `<video>`**)**
-
 ### Core Format (Maximum Compatibility)
 
 - **Container**: MP4 (MPEG-4 Part 14)
